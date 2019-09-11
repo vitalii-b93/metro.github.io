@@ -324,10 +324,10 @@ body {
 }
 
 
-@media(min-width: 700px) {
-/*	.menu {
+@media(max-width: 700px) {
+	.menu {
 		display: block;
-	}*/
+	}
 
 	.logo {
 		justify-content: center;
@@ -343,10 +343,10 @@ body {
 
 }
 
-@media(min-width: 320px) {
-	/*.banner-content {
+@media(max-width: 320px) {
+	.banner-content {
 		display: block;
-	}*/
+	}
 
 	.banner-content img {
 		display: flex;

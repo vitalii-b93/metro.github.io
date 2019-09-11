@@ -325,9 +325,9 @@ body {
 
 
 @media(min-width: 700px) {
-	.menu {
+/*	.menu {
 		display: block;
-	}
+	}*/
 
 	.logo {
 		justify-content: center;

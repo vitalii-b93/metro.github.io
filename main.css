@@ -324,7 +324,7 @@ body {
 }
 
 
-@media(max-width: 700px) {
+@media(max-width: 850px) {
 	.menu {
 		display: block;
 	}
@@ -337,17 +337,17 @@ body {
 		justify-content: center;
 	}
 
-	/*.ipad {
-		margin: -100;
-	}*/
-
-}
-
-@media(max-width: 320px) {
 	.banner-content {
 		display: block;
 	}
 
+	.ipad {
+		margin: -100;
+	}
+
+}
+
+@media(max-width: 320px) {
 	.banner-content img {
 		display: flex;
 	}

@@ -498,6 +498,10 @@ nav ul li a {
     border-bottom:1px solid rgba(225,225,225,0.1);
 }
 
+.logo {
+	margin-left: 10px;
+}
+
 } 
 
 @media only screen and (max-width: 360px) { 
